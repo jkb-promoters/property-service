@@ -1,0 +1,10 @@
+D:\DevOps\JKB_Website\property-service\src\main\java\com\jkb\property\client\PromoterClient.java
+D:\DevOps\JKB_Website\property-service\src\main\java\com\jkb\property\config\CorsConfig.java
+D:\DevOps\JKB_Website\property-service\src\main\java\com\jkb\property\config\DataSeeder.java
+D:\DevOps\JKB_Website\property-service\src\main\java\com\jkb\property\controller\PropertyController.java
+D:\DevOps\JKB_Website\property-service\src\main\java\com\jkb\property\dto\PromoterDTO.java
+D:\DevOps\JKB_Website\property-service\src\main\java\com\jkb\property\dto\PropertyResponseDTO.java
+D:\DevOps\JKB_Website\property-service\src\main\java\com\jkb\property\model\Property.java
+D:\DevOps\JKB_Website\property-service\src\main\java\com\jkb\property\PropertyServiceApplication.java
+D:\DevOps\JKB_Website\property-service\src\main\java\com\jkb\property\repository\PropertyRepository.java
+D:\DevOps\JKB_Website\property-service\src\main\java\com\jkb\property\service\PropertyService.java

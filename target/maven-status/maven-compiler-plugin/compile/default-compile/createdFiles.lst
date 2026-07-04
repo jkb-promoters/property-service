@@ -1,0 +1,11 @@
+com\jkb\property\dto\PropertyResponseDTO.class
+com\jkb\property\config\CorsConfig.class
+com\jkb\property\PropertyServiceApplication.class
+com\jkb\property\controller\PropertyController.class
+com\jkb\property\config\DataSeeder.class
+com\jkb\property\repository\PropertyRepository.class
+com\jkb\property\model\Property.class
+com\jkb\property\client\PromoterClient$1.class
+com\jkb\property\service\PropertyService.class
+com\jkb\property\client\PromoterClient.class
+com\jkb\property\dto\PromoterDTO.class
